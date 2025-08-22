@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **:arpan.jana3007@gmail.com, https://www.linkedin.com/in/arpan-jana3007/**
 
-- 📄 Know about my experiences [:https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing](:https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing](https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
