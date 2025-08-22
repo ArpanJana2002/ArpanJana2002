@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Arpan Jana</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Spring Boot & Hibernate Microservices**
+- 🔭 I’m currently working on **:Spring Boot & Hibernate Microservices**
 
-- 🌱 I’m currently learning **Advanced System Design, AI-driven Web Applications**
+- 🌱 I’m currently learning **:Advanced System Design, AI-driven Web Applications**
 
-- 📂 Featured Projects [Real Estate App, Video Call App, Expense Tracker App,Weather app, Telegram Chatbot](https://github.com/ArpanJana2002/Real_Estate_App2, https://github.com/ArpanJana2002/video-call, https://github.com/ArpanJana2002/Vue_expense_tracer, https://github.com/ArpanJana2002/orange_bot)
+- 📂 Featured Projects [:Real Estate App, Video Call App, Expense Tracker App,Weather app, Telegram Chatbot](https://github.com/ArpanJana2002/Real_Estate_App2, https://github.com/ArpanJana2002/video-call, https://github.com/ArpanJana2002/Vue_expense_tracer, https://github.com/ArpanJana2002/orange_bot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArpanJana2002](https://github.com/ArpanJana2002)
+- 👨‍💻 All of my projects are available at [:https://github.com/ArpanJana2002](:https://github.com/ArpanJana2002)
 
-- 💬 Ask me about **🎓 Electronics and Communication Engineering student at IEM, Kolkata 💻 Full-Stack Developer | C++ | Java | JavaScript | Python (ML) ☁️ Cloud Enthusiast (AWS, Redis, System Design) 🎯 Passionate about building scalable applications and solving real-world problems**
+- 💬 Ask me about **:🎓 Electronics and Communication Engineering student at IEM, Kolkata 💻 Full-Stack Developer | C++ | Java | JavaScript | Python (ML) ☁️ Cloud Enthusiast (AWS, Redis, System Design) 🎯 Passionate about building scalable applications and solving real-world problems**
 
-- 📫 How to reach me **arpan.jana3007@gmail.com, https://www.linkedin.com/in/arpan-jana3007/**
+- 📫 How to reach me **:arpan.jana3007@gmail.com, https://www.linkedin.com/in/arpan-jana3007/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing](https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing)
+- 📄 Know about my experiences [:https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing](:https://drive.google.com/file/d/1EqnmEecHjLc2NdhGJeuWBrCcu-gB89FW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
